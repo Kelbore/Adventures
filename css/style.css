@@ -1,0 +1,6 @@
+table, td{
+    border: 2px solid black;
+}
+#tableDiv {
+    margin-top: 20px;
+}
